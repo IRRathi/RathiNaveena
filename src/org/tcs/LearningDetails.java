@@ -6,7 +6,9 @@ public class LearningDetails {
 	}
 
 	public static void main(String[] args) {
-		username();
+	    LearningDetails s = new LearningDetails();
+	    s.username();
 	}
+	
 
 }
